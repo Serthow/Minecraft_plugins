@@ -10,18 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d19141d-cdcc-46d6-aa97-61ca4d60c1ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SecondPlugin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SecondPlugin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/kc/secondplugin/events/Startup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/kc/secondplugin/events/Startup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/kc/secondplugin/events/commands/Command1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
-    </list>
+    <list default="true" id="6d19141d-cdcc-46d6-aa97-61ca4d60c1ed" name="Default Changelist" comment="help" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +46,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="SecondPlugin build" type="MavenRunConfiguration" factoryName="Maven">
@@ -98,6 +87,14 @@
       <option name="presentableId" value="Default" />
       <updated>1594404895397</updated>
     </task>
+    <task id="LOCAL-00001" summary="help">
+      <created>1594415186064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594415186064</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +107,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="help" />
+    <option name="LAST_COMMIT_MESSAGE" value="help" />
   </component>
   <component name="WindowStateProjectService">
     <state x="880" y="95" key="#Project_Structure" timestamp="1594414885132">
@@ -148,10 +149,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="839" y="285" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594413078704" />
-    <state x="897" y="172" key="SettingsEditor" timestamp="1594415096354">
+    <state x="897" y="172" key="SettingsEditor" timestamp="1594415223563">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="897" y="172" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594415096354" />
+    <state x="897" y="172" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594415223563" />
     <state x="642" y="203" key="new project wizard" timestamp="1594413916275">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

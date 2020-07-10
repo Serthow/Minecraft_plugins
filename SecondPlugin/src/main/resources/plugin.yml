@@ -1,0 +1,5 @@
+name: Events
+version: ${project.version}
+main: me.kc.secondplugin.events.Events
+api-version: 1.16
+description: second plugin, events

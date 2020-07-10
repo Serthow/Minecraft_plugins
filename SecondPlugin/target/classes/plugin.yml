@@ -1,0 +1,5 @@
+name: Events
+version: 1.0-SNAPSHOT
+main: me.kc.secondplugin.events.Events
+api-version: 1.16
+description: second plugin, events

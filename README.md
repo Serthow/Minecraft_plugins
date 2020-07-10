@@ -1,1 +1,1 @@
-# Minectaft_plugins
+# Minecraft_plugins
